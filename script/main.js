@@ -1,7 +1,7 @@
 // Run when the webpage is loaded
 window.addEventListener('load', () => {
   Swal.fire({
-    title: 'Klik oke jika ingin menonton ini :)',
+    title: 'Klik Yes jika ingin menonton ini :)',
     // text: "You won't be able to revert this!",
     icon: 'warning',
     showCancelButton: true,
